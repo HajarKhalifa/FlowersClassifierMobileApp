@@ -24,7 +24,7 @@ Flowers Classifier Mobile App using Flutter &amp; TensorFlowLite
 [Display Results]
 
 
-# Algorithm
+# How it Works
 1. Import necessary Flutter libraries and packages.
 2. Define the main application class.
    - Set up the application's initial state.
